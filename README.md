@@ -8,12 +8,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlbsilva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<i class="devicon-adonisjs-original "></i>          
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
-          
-          
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
 </div>
+
 
 
 <div> 
