@@ -1,4 +1,4 @@
-## Olá! Eu sou Arthur LB Silva
+## Olá! Eu sou Arthur Lisboa
 
 - 🔭 Hoje estou cursando Analise e Desenvolvimento de Sistemas (TADS) na UFRN
 - 🌱 Estudando Java
