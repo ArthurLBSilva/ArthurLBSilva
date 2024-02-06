@@ -9,10 +9,12 @@
 
 <div>
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<i class="devicon-adonisjs-original "></i>
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
+          
           
 </div>
-##
+
+
 <div> 
 <a href="https://www.instagram.com/arthrlisboa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href= "mailto:arthurlbsilva118@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
