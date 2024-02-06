@@ -1,8 +1,7 @@
 ## Olá! Eu sou Arthur LB Silva
 
 - 🔭 Hoje estou cursando Analise e Desenvolvimento de Sistemas (TADS) na UFRN
-- 🌱 Estudando C++
-- 😄 Pronomes: ele/dele
+- 🌱 Estudando Java
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlbsilva&show_icons=true&theme=tokyonight)
