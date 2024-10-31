@@ -1,7 +1,7 @@
 ## Olá! Eu sou Arthur Lisboa
 
 - 🔭 Hoje estou cursando Analise e Desenvolvimento de Sistemas (TADS) na UFRN
-- 🌱 Estudando Java
+- 🌱 Estudando Dart
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlbsilva&show_icons=true&theme=tokyonight)
